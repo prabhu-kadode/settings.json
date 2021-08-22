@@ -1,7 +1,7 @@
 [
   {
     "name":"YouTubeDownloader",
-    "isClosed":false,
+    "isClosed":true,
     "expiryDate":"2021-08-29T11:11:30",
     "isExpiryDateActive":false
     
