@@ -1,5 +1,5 @@
 [
-  "youTubeDownloader":{
+  {
     "name":"YouTubeDownloader",
     "isClosed":false,
     "importantMessage":"Your app has been taken down by owner Prabhu Kadode.",
@@ -7,6 +7,5 @@
     "isExpiryDateActive":true
     
   },
-"calculator":{}
 
 ]
