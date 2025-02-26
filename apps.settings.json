@@ -25,7 +25,7 @@
   },
   {
     "appName":"fileSharing",
-    "isClosed":true,
+    "isClosed":false,
     "importantMessage":"Your app has been taken down. All your data is safe. Wait for further details",
     "expiryDate":"2021-08-29T11:11:30",
     "isExpiryDateActive":true
