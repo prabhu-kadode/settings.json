@@ -22,6 +22,15 @@
     "expiryDate":"2021-08-29T11:11:30",
     "isExpiryDateActive":true
     
+  },
+  {
+    "appName":"fileSharing",
+    "isClosed":true,
+    "importantMessage":"Your app has been taken down by owner Prabhu Kadode.All your data is safe. Kindly update your app from play store.",
+    "expiryDate":"2021-08-29T11:11:30",
+    "isExpiryDateActive":true
+    
   }
+
 
 ]
